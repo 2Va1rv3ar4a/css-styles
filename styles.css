@@ -43,4 +43,8 @@ h1{
     text-decoration: dotted;
     font-family: monospace
 }
-
+main{
+    max-width: 700px;
+    margin: auto;
+    display: block;
+}
