@@ -1,0 +1,46 @@
+h1{
+    background-color: rgba(37, 65, 117, 0.267);
+    color: #6a88a3d8;
+    text-align: center;
+}
+.alg{
+    font-size: 30px;
+    color: #e3f09a;
+    background-color: #f58236ea;
+    padding: 7px;
+    margin: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.pint{
+    font-size: 30px;
+    color: #0f9281;
+    background-color: #abe0ffea;
+    padding: 9px;
+    margin: 20px;
+    border-radius: 4px;
+    text-decoration: line-through;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.wizz{
+    font-size: 30px;
+    color: #392947;
+    background-color: #f1b2e7ea;
+    padding: 6px;
+    margin: 20px;
+    border-radius: 10px;
+    text-decoration: wavy;
+    font-family: cursive
+}
+.git{
+    font-size: 30px;
+    color: #b6acf0;
+    background-color: #cf3153ea;
+    padding: 8px;
+    margin: 20px;
+    border-radius: 1px;
+    text-decoration: dotted;
+    font-family: monospace
+}
+
